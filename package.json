@@ -1,6 +1,6 @@
 {
   "name": "language-minifuck",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Minifuck language support in Atom.",
   "keywords": [
     "language",
