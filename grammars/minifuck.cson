@@ -1,0 +1,21 @@
+# Minifuck language support for Atom by Caesar.
+'scopeName': 'source.minifuck'
+'name': 'Minifuck'
+'fileTypes': [
+  'mf'
+  'minifuck'
+]
+'patterns': [
+  {
+    'match': '<'
+    'name': 'storage.minifuck'
+  }
+  {
+    'match': ','
+    'name': 'entity.minifuck'
+  }
+  {
+    'match': '\\['
+    'name': 'keyword.brainfuck'
+  }
+]

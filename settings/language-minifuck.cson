@@ -1,0 +1,4 @@
+
+'.source.minifuck':
+  'editor':
+    'commentStart': '@@ '
